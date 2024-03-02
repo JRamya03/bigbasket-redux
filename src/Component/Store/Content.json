@@ -1,0 +1,653 @@
+{
+    "veg":  [
+        {
+            "id":1,
+            "image":"https://www.bigbasket.com/media/uploads/p/l/10000067_23-fresho-capsicum-green.jpg?tr=w-640,q=80",
+            "name":"capsicum-Green (Loose)",
+            "weight":"1kg",
+            "weight1": [
+                {
+                    "kg": "1 kg",
+                    "price": "₹ 71.54",
+                    "offer":"30% off",
+                    "isActive":true
+                },
+                {
+                    "kg": "500 g",
+                    "price": "₹ 36.5",
+                    "offer":"30% off",
+                    "isActive":false
+                }
+                
+            ],
+            "details": [
+                {
+                    "title": "About the Product",
+                    "def": [
+                        {
+                            "li": "Leaving a moderately pungent taste on the tongue, Green capsicums, also known as green peppers are bell shaped, medium-sized fruit pods."
+                        },
+                        {
+                            "li": "They have thick and shiny skin with a fleshy texture inside."
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "def": [
+                        {
+                            "li": "Green capsicums have powerful antioxidants and anti-inflammatory properties"
+                        },
+                        {
+                            "li": "Rich in Vitamin A, B complex, C and phytonutrients. Relieves pain of bone disorders and has the capacity to relax the repirartory passage."
+                        }
+                    ]
+                },
+                {
+                    "title": "Storage and Uses",
+                    "def": [
+                        {
+                            "li": "Store them in a cool, dry place away from direct sunlight. Keep capsicums dry as moisture makes them rot faster. Refrigerate the peppers unwashed, in a plastic bag and consume within a week. Resort to refrigeration only when they cannot be consumed immediately."
+                        },
+                        {
+                            "li": "Green bell peppers can be used for a wide variety of dishes due to its distinct flavour and scent. Can be grilled,roasted, baked and sauteed. Widely used in salads, pastas, pizzas, pepper sauce and even for flavouring curries."
+                        }
+                    ]
+                },
+                {
+                    "title": "Other Product Info",
+                    "def": [
+                        {
+                            "li": "EAN Code: 100000670"
+                        },
+                        {
+                            "li": "Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank"
+                        }
+                    ]
+                }
+            ],
+            "isweight":false,
+            "price":"₹ 82.49",
+            "isfav": false,
+            "offer":"30% off",
+            "count":1
+            
+        },
+        {
+            "id":2,
+            "image": "https://www.bigbasket.com/media/uploads/p/l/10000070_15-fresho-carrot-orange.jpg?tr=w-640,q=80",
+            "name":"Carrot",
+            "weight":"1kg",
+            "weight1": [
+                {
+                    "kg": "1 kg",
+                    "price": "₹ 71.54",
+                    "offer":"30% off",
+                    "isActive":true
+                },
+                {
+                    "kg": "500 g",
+                    "price": "₹ 36.5",
+                    "isActive":false,
+                    "offer":"30% off"
+                },
+                {
+                    "kg": "100 g",
+                    "price": "₹ 10.22",
+                    "isActive":false,
+                    "offer":"30% off"
+
+                },
+                {
+                    "kg": "250 g",
+                    "price": "₹ 24.09",
+                    "offer": "27% off",
+                    "isActive":false
+                }
+            ],
+            "details": [
+                {
+                    "title": "About the Product",
+                    "def": [
+                        {
+                            "li": "Leaving a moderately pungent taste on the tongue, Green capsicums, also known as green peppers are bell shaped, medium-sized fruit pods."
+                        },
+                        {
+                            "li": "They have thick and shiny skin with a fleshy texture inside."
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "def": [
+                        {
+                            "li": "Carrots have powerful antioxidants and anti-inflammatory properties"
+                        },
+                        {
+                            "li": "Rich in Vitamin A, B complex, C and phytonutrients. Relieves pain of bone disorders and has the capacity to relax the repirartory passage."
+                        }
+                    ]
+                },
+                {
+                    "title": "Storage and Uses",
+                    "def": [
+                        {
+                            "li": "Store them in a cool, dry place away from direct sunlight. Keep capsicums dry as moisture makes them rot faster. Refrigerate the peppers unwashed, in a plastic bag and consume within a week. Resort to refrigeration only when they cannot be consumed immediately."
+                        },
+                        {
+                            "li": "Green bell peppers can be used for a wide variety of dishes due to its distinct flavour and scent. Can be grilled,roasted, baked and sauteed. Widely used in salads, pastas, pizzas, pepper sauce and even for flavouring curries."
+                        }
+                    ]
+                },
+                {
+                    "title": "Other Product Info",
+                    "def": [
+                        {
+                            "li": "EAN Code: 100000670"
+                        },
+                        {
+                            "li": "Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank"
+                        }
+                    ]
+                }
+            ],
+            "isweight":false,
+            "price":"₹ 64 ",
+            "offer":"30% off",
+            "isfav": false,
+            "iscart":false,
+            "count":1
+            
+        },
+        {
+            "id":3,
+            "image": "https://www.bigbasket.com/media/uploads/p/m/10000074_19-fresho-cauliflower.jpg?tr=w-1920,q=80",
+            "name":"Cauliflower",
+            "weight":"1pc",
+            "weight1": [
+                {
+                    "kg": "1 pc",
+                    "price": "₹ 71.54",
+                    "offer":"8% off",
+                    "isActive":true
+                },
+                {
+                    "kg": "3pc",
+                    "price": "₹ 36.5",
+                    "offer":"30% off",
+                    "isActive":false
+                },
+                {
+                    "kg": "4 pc",
+                    "price": "₹ 10.22",
+                    "offer":"35% off",
+                    "isActive":false
+
+                },
+                {
+                    "kg": "5 pc",
+                    "price": "₹ 24.09",
+                     "offer":"60% off",
+                    "isActive":false
+                }
+            ],
+            "details": [
+                {
+                    "title": "About the Product",
+                    "def": [
+                        {
+                            "li": "Leaving a moderately pungent taste on the tongue, Green capsicums, also known as green peppers are bell shaped, medium-sized fruit pods."
+                        },
+                        {
+                            "li": "They have thick and shiny skin with a fleshy texture inside."
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "def": [
+                        {
+                            "li": "Cauliflower have powerful antioxidants and anti-inflammatory properties"
+                        },
+                        {
+                            "li": "Rich in Vitamin A, B complex, C and phytonutrients. Relieves pain of bone disorders and has the capacity to relax the repirartory passage."
+                        }
+                    ]
+                },
+                {
+                    "title": "Storage and Uses",
+                    "def": [
+                        {
+                            "li": "Store them in a cool, dry place away from direct sunlight. Keep capsicums dry as moisture makes them rot faster. Refrigerate the peppers unwashed, in a plastic bag and consume within a week. Resort to refrigeration only when they cannot be consumed immediately."
+                        },
+                        {
+                            "li": "Green bell peppers can be used for a wide variety of dishes due to its distinct flavour and scent. Can be grilled,roasted, baked and sauteed. Widely used in salads, pastas, pizzas, pepper sauce and even for flavouring curries."
+                        }
+                    ]
+                },
+                {
+                    "title": "Other Product Info",
+                    "def": [
+                        {
+                            "li": "EAN Code: 100000670"
+                        },
+                        {
+                            "li": "Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank"
+                        }
+                    ]
+                }
+            ],
+            "isweight":false,
+            "price":"₹ 24 ",
+            "isfav": false,
+            "iscart":false,
+            "offer":"30% off",
+            "count":1
+            
+        },
+        {
+            "id":4,
+            "image": "https://www.bigbasket.com/media/uploads/p/m/10000326_14-fresho-coriander-leaves.jpg?tr=w-1920,q=80",
+            "name":"Corriander-leaves",
+            "weight":"1kg",
+            "weight1": [
+                {
+                    "kg": "1 kg",
+                    "price": "₹ 71.54",
+                    "offer":"50% off",
+                    "isActive":true
+                },
+                {
+                    "kg": "500 g",
+                    "price": "₹ 36.5",
+                    "offer":"33% off",
+                    "isActive":false
+                },
+                {
+                    "kg": "100 g",
+                    "price": "₹ 10.22",
+                    "offer":"24% off",
+                    "isActive":false
+
+                },
+                {
+                    "kg": "250 g",
+                    "price": "₹ 24.09",
+                    "offer": "9% off",
+                    "isActive":false
+                }
+            ],
+            "details": [
+                {
+                    "title": "About the Product",
+                    "def": [
+                        {
+                            "li": "Leaving a moderately pungent taste on the tongue, Corriander-leaves, also known as green peppers are bell shaped, medium-sized fruit pods."
+                        },
+                        {
+                            "li": "They have thick and shiny skin with a fleshy texture inside."
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "def": [
+                        {
+                            "li": "Corriander-leaves have powerful antioxidants and anti-inflammatory properties"
+                        },
+                        {
+                            "li": "Rich in Vitamin A, B complex, C and phytonutrients. Relieves pain of bone disorders and has the capacity to relax the repirartory passage."
+                        }
+                    ]
+                },
+                {
+                    "title": "Storage and Uses",
+                    "def": [
+                        {
+                            "li": "Store them in a cool, dry place away from direct sunlight. Keep Corriander-leaves dry as moisture makes them rot faster. Refrigerate the peppers unwashed, in a plastic bag and consume within a week. Resort to refrigeration only when they cannot be consumed immediately."
+                        },
+                        {
+                            "li": "Corriander-leaves can be used for a wide variety of dishes due to its distinct flavour and scent. Can be grilled,roasted, baked and sauteed. Widely used in salads, pastas, pizzas, pepper sauce and even for flavouring curries."
+                        }
+                    ]
+                },
+                {
+                    "title": "Other Product Info",
+                    "def": [
+                        {
+                            "li": "EAN Code: 100000670"
+                        },
+                        {
+                            "li": "Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank"
+                        }
+                    ]
+                }
+            ],
+            "isweight":false,
+            "price":"₹ 71",
+            "isfav": false,
+            "iscart":false,
+            "count":1,
+            "offer":"30% off",
+            "isactive":false
+        },
+        {
+            "id":5,
+            "image": "https://www.bigbasket.com/media/uploads/p/m/40077518_1-fresho-cucumber.jpg?tr=w-1920,q=80",
+            "name":"Cucumber",
+            "weight":"10kg",
+            "weight1": [
+                {
+                    "kg": "1 kg",
+                    "price": "₹ 71.54",
+                    "offer":"35% off",
+                    "isActive":true
+                },
+                {
+                    "kg": "500 g",
+                    "price": "₹ 36.5",
+                    "offer":"19% off",
+                    "isActive":false
+                },
+                {
+                    "kg": "100 g",
+                    "price": "₹ 10.22",
+                    "offer":"4% off",
+                    "isActive":false
+
+                },
+                {
+                    "kg": "250 g",
+                    "price": "₹ 24.09",
+                    "offer": "2% off",
+                    "isActive":false
+                }
+            ],
+            "details": [
+                {
+                    "title": "About the Product",
+                    "def": [
+                        {
+                            "li": "Leaving a moderately pungent taste on the tongue, Green capsicums, also known as green peppers are bell shaped, medium-sized fruit pods."
+                        },
+                        {
+                            "li": "They have thick and shiny skin with a fleshy texture inside."
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "def": [
+                        {
+                            "li": "Green capsicums have powerful antioxidants and anti-inflammatory properties"
+                        },
+                        {
+                            "li": "Rich in Vitamin A, B complex, C and phytonutrients. Relieves pain of bone disorders and has the capacity to relax the repirartory passage."
+                        }
+                    ]
+                },
+                {
+                    "title": "Storage and Uses",
+                    "def": [
+                        {
+                            "li": "Store them in a cool, dry place away from direct sunlight. Keep capsicums dry as moisture makes them rot faster. Refrigerate the peppers unwashed, in a plastic bag and consume within a week. Resort to refrigeration only when they cannot be consumed immediately."
+                        },
+                        {
+                            "li": "Green bell peppers can be used for a wide variety of dishes due to its distinct flavour and scent. Can be grilled,roasted, baked and sauteed. Widely used in salads, pastas, pizzas, pepper sauce and even for flavouring curries."
+                        }
+                    ]
+                },
+                {
+                    "title": "Other Product Info",
+                    "def": [
+                        {
+                            "li": "EAN Code: 100000670"
+                        },
+                        {
+                            "li": "Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank"
+                        }
+                    ]
+                }
+            ],
+            "price":"₹ 200",
+            "isweight":false,
+            "isfav": false,
+            "offer":"30% off",
+            "iscart":false,
+            "count":1
+            
+        },
+        {
+            "id":6,
+            "image": "https://www.bigbasket.com/media/uploads/p/m/10000142_17-fresho-ladies-finger.jpg?tr=w-1920,q=80",
+            "name":"Ladies-Finger(loose)",
+            "weight":"1kg",
+            "weight1": [
+                {
+                    "kg": "1 kg",
+                    "price": "₹ 42.34",
+                    "offer":"30% off",
+                    "isActive":true
+                },
+                {
+                    "kg": "500 g",
+                     "price": " ₹₹ 36.5",
+                     "offer":"30% off",
+                    "isActive":false
+                },
+                {
+                    "kg": "100 g",
+                     "price": " ₹₹ 10.22",
+                     "offer":"30% off",
+                    "isActive":false
+
+                },
+                {
+                    "kg": "250 g",
+                     "price": " ₹₹ 24.09",
+                    " offer": "27% off",
+                    "isActive":false
+                }
+            ],
+            "details": [
+                {
+                    "title": "About the Product",
+                    "def": [
+                        {
+                            "li": "Leaving a moderately pungent taste on the tongue, Green capsicums, also known as green peppers are bell shaped, medium-sized fruit pods."
+                        },
+                        {
+                            "li": "They have thick and shiny skin with a fleshy texture inside."
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "def": [
+                        {
+                            "li": "Green capsicums have powerful antioxidants and anti-inflammatory properties"
+                        },
+                        {
+                            "li": "Rich in Vitamin A, B complex, C and phytonutrients. Relieves pain of bone disorders and has the capacity to relax the repirartory passage."
+                        }
+                    ]
+                },
+                {
+                    "title": "Storage and Uses",
+                    "def": [
+                        {
+                            "li": "Store them in a cool, dry place away from direct sunlight. Keep capsicums dry as moisture makes them rot faster. Refrigerate the peppers unwashed, in a plastic bag and consume within a week. Resort to refrigeration only when they cannot be consumed immediately."
+                        },
+                        {
+                            "li": "Green bell peppers can be used for a wide variety of dishes due to its distinct flavour and scent. Can be grilled,roasted, baked and sauteed. Widely used in salads, pastas, pizzas, pepper sauce and even for flavouring curries."
+                        }
+                    ]
+                },
+                {
+                    "title": "Other Product Info",
+                    "def": [
+                        {
+                            "li": "EAN Code: 100000670"
+                        },
+                        {
+                            "li": "Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank"
+                        }
+                    ]
+                }
+            ],
+            "isweight":false,
+            "price":"₹ 65", 
+            "isfav": false,
+            "iscart":false,
+            
+            "count":1
+            
+        },
+        {
+            "id":7,
+            "image": "https://www.bigbasket.com/media/uploads/p/m/1201414_1-fresho-onion.jpg?tr=w-1920,q=80",
+            "name":"Onion",
+            "weight":"5kg",
+            "weight1": [
+                {
+                    "kg": "1 kg",
+                     "price": " ₹ 35.00",
+                     "offer":"0% off",
+                    "isActive":true
+                },
+                {
+                    "kg": "10 kg",
+                     "price": " ₹ 400",
+                     "offer":"10% off",
+                    "isActive":false
+                }
+                 
+            ],
+            "details": [
+                {
+                    "title": "About the Product",
+                    "def": [
+                        {
+                            "li": "Leaving a moderately pungent taste on the tongue, Onion also known as Onion are bell shaped, medium-sized fruit pods."
+                        },
+                        {
+                            "li": "They have thick and shiny skin with a fleshy texture inside."
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "def": [
+                        {
+                            "li": "Onion have powerful antioxidants and anti-inflammatory properties"
+                        },
+                        {
+                            "li": "Rich in Vitamin A, B complex, C and phytonutrients. Relieves pain of bone disorders and has the capacity to relax the repirartory passage."
+                        }
+                    ]
+                },
+                {
+                    "title": "Storage and Uses",
+                    "def": [
+                        {
+                            "li": "Store them in a cool, dry place away from direct sunlight. Keep Onion dry as moisture makes them rot faster. Refrigerate the peppers unwashed, in a plastic bag and consume within a week. Resort to refrigeration only when they cannot be consumed immediately."
+                        },
+                        {
+                            "li": "Onion can be used for a wide variety of dishes due to its distinct flavour and scent. Can be grilled,roasted, baked and sauteed. Widely used in salads, pastas, pizzas, pepper sauce and even for flavouring curries."
+                        }
+                    ]
+                },
+                {
+                    "title": "Other Product Info",
+                    "def": [
+                        {
+                            "li": "EAN Code: 100000670"
+                        },
+                        {
+                            "li": "Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank"
+                        }
+                    ]
+                }
+            ],
+            "isweight":false,
+            "price":"₹ 230",
+            "isfav": false,
+            "iscart":false,
+            "count":1
+            
+        },
+        {
+            "id":8,
+            "image": "https://www.bigbasket.com/media/uploads/p/m/40048459_8-fresho-potato-new-crop.jpg?tr=w-1920,q=80",
+            "name":"Potato (Loose)",
+            "weight":"5kg",
+            "weight1": [
+                {
+                    "kg": "1 kg",
+                    "price": "₹ 71.54",
+                    "isActive":true,
+                    "offer":"30% off"
+                },
+                {
+                    "kg": "500 g",
+                    "price": "₹ 36.5",
+                    "isActive":false,
+                    "offer":"30% off"
+                }
+                 
+            ],
+            "details": [
+                {
+                    "title": "About the Product",
+                    "def": [
+                        {
+                            "li": "Leaving a moderately pungent taste on the tongue, Potato also known as green peppers are bell shaped, medium-sized fruit pods."
+                        },
+                        {
+                            "li": "They have thick and shiny skin with a fleshy texture inside."
+                        }
+                    ]
+                },
+                {
+                    "title": "Benefits",
+                    "def": [
+                        {
+                            "li": "Potato have powerful antioxidants and anti-inflammatory properties"
+                        },
+                        {
+                            "li": "Rich in Vitamin A, B complex, C and phytonutrients. Relieves pain of bone disorders and has the capacity to relax the repirartory passage."
+                        }
+                    ]
+                },
+                {
+                    "title": "Storage and Uses",
+                    "def": [
+                        {
+                            "li": "Store them in a cool, dry place away from direct sunlight. Keep Potato dry as moisture makes them rot faster. Refrigerate the peppers unwashed, in a plastic bag and consume within a week. Resort to refrigeration only when they cannot be consumed immediately."
+                        },
+                        {
+                            "li": "Potato can be used for a wide variety of dishes due to its distinct flavour and scent. Can be grilled,roasted, baked and sauteed. Widely used in salads, pastas, pizzas, pepper sauce and even for flavouring curries."
+                        }
+                    ]
+                },
+                {
+                    "title": "Other Product Info",
+                    "def": [
+                        {
+                            "li": "EAN Code: 100000670"
+                        },
+                        {
+                            "li": "Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank"
+                        }
+                    ]
+                }
+            ],
+            "isweight":false,
+            "price":"₹ 86.14",
+            "isfav": false,
+            "iscart":false,
+            "offer":"30% off",
+            "count":1   
+        }
+    ]
+}
