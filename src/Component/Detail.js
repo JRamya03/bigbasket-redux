@@ -150,7 +150,7 @@ export const Detail=()=>{
                   return (
                     <div key={ind} className="bg-white">
                       <div className="xx">
-                        <div className="style " style={{ border: v.isactive ? "1px solid green" : "1px solid grey" }}  onClick={() => show(v, ind, val.id)}>
+                        <div className="style" style={{ border: v.isactive ? "1px solid green" : "1px solid grey" }}  onClick={() => show(v, ind, val.id)}>
                           <div className="kg">
                             <p></p>
                           </div>

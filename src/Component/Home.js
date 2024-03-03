@@ -219,13 +219,13 @@ export const Home = ()=>{
                   {val.isfav ? <FcLike /> : <FaRegHeart />}
                 </div>
                 {val.iscart ? (
-                  <div class="col-9 d-flex align-items-center">
+                  <div class="col-9 col-sm-9 col-md-8 d-flex align-items-center">
                     <button class="btn btn-outline-danger ms-3 ms-md-2 me-4" onClick={() => sub(val.id)}>-</button>
                     <p class="m-0">{val.count}</p>
                     <button class="btn btn-outline-danger ms-4" onClick={() => add(val.id)}>+</button>
                   </div>
                 ) : (
-                  <div class="col-9">
+                  <div class="col-9 col-sm-9 col-md-8">
                     <button class="btn btn-outline-danger cart-btn" onClick={() => addToCart(val.id)}>Add to cart</button>
                   </div>
                 )}
